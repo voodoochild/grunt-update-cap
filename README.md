@@ -24,4 +24,6 @@ Automatically run `hcom_updateui` on CAP when you change CSS or JS files. You‘
 		  "scripts": "/Users/USERNAME/hcom-dev/hcom/Assets/CommonAssetPack/Main/webapp/js"
 		}
 
-5. Run the default task, `grunt`, to start watching
+5. Start watching
+
+		grunt
