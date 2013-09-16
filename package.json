@@ -1,0 +1,15 @@
+{
+  "name": "grunt-update-cap",
+  "version": "0.1.0",
+  "paths": {
+    "cap": "/Users/cwatt/hcom-dev/hcom/Assets/CommonAssetPack/Main",
+    "styles": "/Users/cwatt/hcom-dev/hcom/Assets/CommonAssetPack/Main/webapp/styles",
+    "scripts": "/Users/cwatt/hcom-dev/hcom/Assets/CommonAssetPack/Main/webapp/js"
+  },
+  "devDependencies": {
+    "grunt-cli": "~0.1.9",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt": "~0.4.1",
+    "grunt-exec": "~0.4.2"
+  }
+}
