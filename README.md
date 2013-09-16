@@ -4,7 +4,7 @@ Automatically run `hcom_updateui` on CAP when you change CSS or JS files. You‘
 
 1. Clone this repository
 
-		git clone git@github.com:voodoochild/grunt-update-cap.git
+		git clone https://github.com/voodoochild/grunt-update-cap.git
 
 
 2. Install `grunt-cli` globally if you haven‘t used it before
